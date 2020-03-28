@@ -16,7 +16,7 @@ These rules encourage liberal spacing for improved developer readability. The mi
 * The ? and : in a ternary conditional must have space on both sides.
 * No filler spaces in empty constructs (e.g., {}, [], fn()).
 * There should be a new line at the end of each file.
-* Any ! negation operator should have a following space.*
+* Any ! negation operator should have a following space.
 * All function bodies are indented by one tab, even if the entire file is wrapped in a closure.
 * Spaces may align code within documentation blocks or within a line, but only tabs should be used at the start of a line.
 `
