@@ -1,3 +1,1 @@
-TechThirsty 
-
-curiosity to learn new technology
+# JavaScript Coding Standards
